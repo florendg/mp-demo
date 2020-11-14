@@ -7,7 +7,7 @@ repositories {
 }
 
 dependencies {
-    implementation("org.eclipse.microprofile:microprofile:3.3")
+    compileOnly("org.eclipse.microprofile:microprofile:3.3")
     testImplementation("org.junit.jupiter:junit-jupiter:5.7.0")
 }
 

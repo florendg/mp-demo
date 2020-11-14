@@ -1,3 +1,3 @@
 rootProject.name = "mp-demo"
 include("generator")
-include("service")
+include("greeter-service")
